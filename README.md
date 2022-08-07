@@ -2,7 +2,7 @@
 # I'm Ivy Mead, a Senior Data Analyst based in Portland, Maine.
 
 ## Career path:
-After 10 years at the lab bench working as a Translational Scientist specialized in regenerative medicine and molecular/immunoassay development, I decided I needed a change of pace and realized that data analysis was the highlight of my days as a scientist. I have carried my transferrable skills into a new career in data science as a Data Analyst. I have been working to deliver data and insights for Operations, currently specializing in Supply Chain and Logistics. 
+After 10 years at the lab bench working as a Translational Scientist specialized in regenerative medicine and molecular/immunoassay development, I decided I needed a change of pace and realized that data analysis was the highlight of my days as a scientist. I have carried my transferrable skills into a new career in data science as a Data Analyst. I have previous experience working to deliver data and insights for Operations, specializing in Supply Chain and Logistics. Now I work in Financial Tech. 
 
 I hold a BA in Biological Sciences from Smith College and a MSc in Translational Sciences from Wake Forest University.
 
